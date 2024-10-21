@@ -1,0 +1,15 @@
+h1 {
+    color: gold;
+}
+p {
+    /* font-weight: bold; */
+}
+ul{
+    list-style: none;
+}
+img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 100px;
+}
